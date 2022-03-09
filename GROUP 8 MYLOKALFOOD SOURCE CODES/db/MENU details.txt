@@ -1,0 +1,60 @@
+REST IDs 
+Restoran Seri Menanti = 1
+GG Cafe = 2
+Kopitiam Chun = 3
+COOL CORNER = 4
+
+food id = 1
+rest_id = 1
+food_cat = 
+Nasi Lemak RM 5.00
+src img : img/food/nasi-lemak.jpg
+
+food id = 2
+rest_id = 2
+food_cat = 2
+h nt=1
+Hainanese Chicken Rice RM 13.00
+src img : img/food/hainanese-chicken-rice.jpg
+
+food id = 3
+rest_id = 2
+food_cat = 2
+h nt=1
+Nasi Kerabu RM 7.50
+src img : img/food/nasi-kerabu.jpg
+
+food id = 4
+rest_id = 1
+food_cat = 1
+h nt=1
+Roti Canai RM 5.00
+src img : img/food/roti-canai.jpg
+
+food id = 5
+rest_id = 3
+food_cat = 3
+h nt=2
+Bak Kut Teh RM 10.60
+src img : img/food/bak-kut-teh.jpg
+
+food id = 6
+rest_id = 1
+food_cat = 3
+h nt=2
+Chicken Satay RM 9.80
+src img : img/food/satay.jpg
+
+food id = 7
+rest_id = 4
+food_cat = 4
+h nt=1
+Ais Kacang COOL RM 6.00
+src img : img/food/ais-kacang.jpg
+
+food id = 8
+rest_id = 4
+food_cat = 4
+h nt=1
+Cendol COOL RM 3.00
+src img : img/food/cendol.jpg

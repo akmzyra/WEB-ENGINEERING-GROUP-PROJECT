@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Garamond";
+	background-image: url(https://wallpaperaccess.com/full/379488.jpg); 
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+
+.header{
+    background: url(img/bg_header.jpg);
+	background-size:center;
+}
+	
+p{
+	color: white;
+}
+
+a{
+	color: white;
+}
+
+h4{
+	color: white;
+	font-weight:bold;
+}
+	
+.login{
+	width: 100%; height: auto;
+	display: block;
+	background: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.imgcenter {
+  width: 100%; height: auto;
+  display: block;
+  background: gray;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+button{
+	background-color: #FAFAFA;
+}
+
+input{
+	background-color: #FAFAFA;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background: url(C:/xampp/htdocs/lokalFood v2/img/top-nav-bg);
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav .search-container {
+  float: right;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+.topnav .search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+
+.topnav .search-container button:hover {
+  background: #ccc;
+}
